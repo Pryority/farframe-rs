@@ -2,7 +2,7 @@
 
 ## A Simple [Farcaster Frame](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5) Server
 
-![Demo](./demo.png)
+![Demo](https://github.com/Pryority/farframe/blob/main/demo.png)
 
 ```Rust
 #[tokio::main]
